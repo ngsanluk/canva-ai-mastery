@@ -28,6 +28,10 @@ Focus: Contrast, modern aesthetics, and platform-appropriate typography.
 A portrait Instagram post for a sustainable skincare brand. Use a minimalist design style with an earthy tone color palette (sage green, beige, and warm white). Features clean layout, ample white space, and a serif font for the main title to evoke a premium, calm feel.
 ```
 
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-1.1.png)
+
 ---
 
 **Facebook Event Cover for a Tech Webinar**
@@ -35,6 +39,10 @@ A portrait Instagram post for a sustainable skincare brand. Use a minimalist des
 ```
 A Facebook cover for an AI and future tech webinar. Design style should be cyberpunk / futuristic, using a monochromatic color scheme of electric blues with neon purple accents. Use a bold, sans-serif geometric font for the headline to look cutting-edge.
 ```
+
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-1.2.png)
 
 ---
 
@@ -44,6 +52,10 @@ A Facebook cover for an AI and future tech webinar. Design style should be cyber
 A corporate yet approachable LinkedIn graphic. Use a professional design style with a triadic color scheme of dark navy, mustard yellow, and crisp white. Include high-contrast text layout with a strong sans-serif font hierarchy (bold headers, clean body text).
 ```
 
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-1.3.png)
+
 ---
 
 **Instagram Story for a Fashion Flash Sale**
@@ -52,6 +64,10 @@ A corporate yet approachable LinkedIn graphic. Use a professional design style w
 A vertical Instagram story for a streetwear fashion brand. Style: Brutalist and edgy. Use high-contrast complementary colors like electric orange and deep slate gray. Feature oversized, distressed typography and an asymmetrical layout.
 ```
 
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-1.4.png)
+
 ---
 
 **Pinterest Pin for Healthy Meal Prep Recipes**
@@ -59,6 +75,10 @@ A vertical Instagram story for a streetwear fashion brand. Style: Brutalist and 
 ```
 A vertical Pinterest pin layout for a healthy eating blog. Style: Fresh and editorial. Use a warm analogous color palette (terracotta, soft peach, and cream). Use an elegant combination of a casual script font for keywords and a clean sans-serif for description text.
 ```
+
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-1.5.png)
 
 # Creating Marketing & Promotional Material (Flyers, Posters, Business Cards)
 
@@ -70,6 +90,10 @@ Focus: Visual hierarchy, mood creation, and branding basics.
 An A4 flyer for a community weekend farmers market. Style: Rustic and organic. Use a color palette of olive green, warm gold, and textured brown. Use a friendly, slightly rounded slab-serif font for the headers to give a welcoming, handcrafted feel.
 ```
 
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-2.1.png)
+
 ---
 
 **Poster for a Jazz Music Festival**
@@ -78,13 +102,21 @@ An A4 flyer for a community weekend farmers market. Style: Rustic and organic. U
 A large format concert poster for a summer jazz festival. Style: Retro mid-century modern. Use a limited palette of mustard yellow, teal, and charcoal gray with abstract geometric shapes. Typography should feature a stylized, rhythmic display font.
 ```
 
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-2.2.png)
+
 ---
 
 **Business Card for an Interior Designer**
 
 ```
-A double-sided business card for a high-end interior architect. Style: Architectural minimalism. Use an achromatic color scheme (pure black, muted grays, charcoal) with a touch of gold foil effect. Feature a sophisticated lightweight sans-serif font with wide letter-spacing.
+A double-sided business card for a high-end interior architect. Style: Architectural minimalism. Use an achromatic color scheme (pure black, muted grays, charcoal) with a touch of gold foil effect. Feature a sophisticated lightweight sans-serif font with wide letter-spacing.  Include full name, email, tel and website address.
 ```
+
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-2.3.png)
 
 ---
 
@@ -94,6 +126,10 @@ A double-sided business card for a high-end interior architect. Style: Architect
 A landscape outdoor banner for a cozy bakery and coffee shop grand opening. Style: Scandinavian hygge. Use soft, pastel tones (blush pink, muted cream, light oak wood texture). Typography should be a mix of an elegant script font for 'Grand Opening' and clean, readable text below.
 ```
 
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-2.4.png)
+
 ---
 
 **Product Brochure Cover for an Eco-Resort**
@@ -101,6 +137,10 @@ A landscape outdoor banner for a cozy bakery and coffee shop grand opening. Styl
 ```
 A professional brochure cover for a tropical eco-resort. Style: Tropical luxury. Use deep jungle greens, warm sand beige, and accents of gold. The layout should be balanced and symmetrical, utilizing an elegant roman-style serif font for a timeless look.
 ```
+
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-2.5.png)
 
 # Creating Professional & Business Documents (Presentations, Proposals, Resumes)
 
@@ -112,6 +152,10 @@ Focus: Data readability, structure, and clean presentation formatting.
 A 5-slide presentation deck for a renewable energy startup. Style: Clean and corporate. Use a trustworthy color scheme of deep navy blue, bright mint green, and clean white. Feature high-readability with a prominent humanist sans-serif font (like Open Sans or Calibri style) for clear data delivery.
 ```
 
+For presentation generation, you would have to prepare the content and structure of the slides, then use Canva AI to generate the visual design based on the prompt above.
+
+![](./images/example-3.1.png)
+
 ---
 
 **Project Proposal for a Creative Agency**
@@ -119,6 +163,10 @@ A 5-slide presentation deck for a renewable energy startup. Style: Clean and cor
 ```
 A multi-page business proposal document. Style: Art-deco inspired or contemporary chic. Use an upscale palette of emerald green, blush pink, and dark slate. Incorporate strict grid alignments and a high-contrast serif headline/sans-serif body font pairing.
 ```
+
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-3.2.png)
 
 ---
 
@@ -128,6 +176,10 @@ A multi-page business proposal document. Style: Art-deco inspired or contemporar
 A modern one-page resume for a graphic designer portfolio. Style: Swiss typography style. Focus heavily on asymmetrical grids, a bold primary color accent (like Bauhaus red or yellow) against white and black. Use a strong, uniform neo-grotesque sans-serif font (like Helvetica style).
 ```
 
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-3.3.png)
+
 ---
 
 **Company Newsletter Header**
@@ -136,6 +188,10 @@ A modern one-page resume for a graphic designer portfolio. Style: Swiss typograp
 A banner header for an internal corporate tech company newsletter. Style: Flat design / corporate Memphis. Use bright, cheerful split-complementary colors (purple, orange, and light yellow) with playful geometric illustrations. Clear, bold sans-serif text.
 ```
 
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-3.4.png)
+
 ---
 
 **Annual Financial Report Cover**
@@ -143,6 +199,10 @@ A banner header for an internal corporate tech company newsletter. Style: Flat d
 ```
 A clean, formal report cover for a financial consulting firm. Style: Traditional corporate. Use a monochromatic blue color scheme (royal blue, sky blue, navy). Feature a center-aligned, authoritative traditional serif font (like Times or Garamond style) for a trustworthy, established appearance.
 ```
+
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-3.5.png)
 
 ---
 
@@ -156,6 +216,10 @@ Focus: High-impact visibility, eye-catching focal points, and storytelling layou
 An eye-catching YouTube thumbnail about traveling in Japan. Style: Vibrant and high-energy. Use an ultra-bright color scheme featuring neon pink and deep purple gradients. Use an extra-bold, shadowed display font for the text overlay to ensure it is readable at small sizes.
 ```
 
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-4.1.png)
+
 ---
 
 **E-commerce Web Banner for Tech Accessories**
@@ -164,11 +228,23 @@ An eye-catching YouTube thumbnail about traveling in Japan. Style: Vibrant and h
 A landscape website hero banner for wireless headphones. Style: High-tech minimalism. Use a sleek dark mode theme (pitch black background, neon neon-green glow effects). The typography should be wide, futuristic, and all-caps sans-serif.
 ```
 
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-4.2.png)
+
+---
+
 **Infographic Layout for Fitness & Nutrition Tips**
 
 ```
 A vertical step-by-step infographic about daily hydration benefits. Style: Friendly and educational. Use an analogous palette of cool colors (teal, cyan, marine blue, white). Incorporate clean icon placeholders and a highly legible, uniform sans-serif font.
 ```
+
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-4.3.png)
+
+---
 
 **Podcast Cover Art for a True Crime Show**
 
@@ -176,8 +252,18 @@ A vertical step-by-step infographic about daily hydration benefits. Style: Frien
 Square podcast cover art for a mystery and true-crime podcast. Style: Film-noir / gritty realism. Use a stark, high-contrast palette of crimson red, deep shadows, and stark white. Use a distressed, textured, or stencil serif font to create tension.
 ```
 
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-4.4.png)
+
+---
+
 **E-book Cover for a Self-Help Guide**
 
 ```
 A book cover template for a mindfulness and meditation guide. Style: Zen / Ethereal. Use soft, blending gradient pastel colors (lavender melting into soft sky blue). Use a delicate, centered, high-contrast serif font with ample breathing room to evoke peace and clarity.
 ```
+
+Use the prompt above in Canva AI, you will be able to generate designs similar to below.
+
+![](./images/example-4.5.png)
