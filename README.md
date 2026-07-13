@@ -18,7 +18,7 @@ Canva's user interface is intuitive and user-friendly. Here are some key compone
 
 ![](./images/canva-design-tool-bar.png)
 
-# CreatingSocial Media Graphics (Instagram, Facebook, LinkedIn)
+# Creating Social Media Graphics (Instagram, Facebook, LinkedIn)
 
 Focus: Contrast, modern aesthetics, and platform-appropriate typography.
 
@@ -106,6 +106,78 @@ A professional brochure cover for a tropical eco-resort. Style: Tropical luxury.
 
 Focus: Data readability, structure, and clean presentation formatting.
 
+**Pitch Deck Presentation for a Clean-Energy Startup**
+
+```
+A 5-slide presentation deck for a renewable energy startup. Style: Clean and corporate. Use a trustworthy color scheme of deep navy blue, bright mint green, and clean white. Feature high-readability with a prominent humanist sans-serif font (like Open Sans or Calibri style) for clear data delivery.
+```
+
+---
+
+**Project Proposal for a Creative Agency**
+
+```
+A multi-page business proposal document. Style: Art-deco inspired or contemporary chic. Use an upscale palette of emerald green, blush pink, and dark slate. Incorporate strict grid alignments and a high-contrast serif headline/sans-serif body font pairing.
+```
+
+---
+
+**Creative Resume for a Multimedia Designer**
+
+```
+A modern one-page resume for a graphic designer portfolio. Style: Swiss typography style. Focus heavily on asymmetrical grids, a bold primary color accent (like Bauhaus red or yellow) against white and black. Use a strong, uniform neo-grotesque sans-serif font (like Helvetica style).
+```
+
+---
+
+**Company Newsletter Header**
+
+```
+A banner header for an internal corporate tech company newsletter. Style: Flat design / corporate Memphis. Use bright, cheerful split-complementary colors (purple, orange, and light yellow) with playful geometric illustrations. Clear, bold sans-serif text.
+```
+
+---
+
+**Annual Financial Report Cover**
+
+```
+A clean, formal report cover for a financial consulting firm. Style: Traditional corporate. Use a monochromatic blue color scheme (royal blue, sky blue, navy). Feature a center-aligned, authoritative traditional serif font (like Times or Garamond style) for a trustworthy, established appearance.
+```
+
+---
+
 # Creating Digital Content & Web Assets (YouTube, Web Banners, Infographics)
 
 Focus: High-impact visibility, eye-catching focal points, and storytelling layout.
+
+**YouTube Thumbnail for a Travel Vlogger**
+
+```
+An eye-catching YouTube thumbnail about traveling in Japan. Style: Vibrant and high-energy. Use an ultra-bright color scheme featuring neon pink and deep purple gradients. Use an extra-bold, shadowed display font for the text overlay to ensure it is readable at small sizes.
+```
+
+---
+
+**E-commerce Web Banner for Tech Accessories**
+
+```
+A landscape website hero banner for wireless headphones. Style: High-tech minimalism. Use a sleek dark mode theme (pitch black background, neon neon-green glow effects). The typography should be wide, futuristic, and all-caps sans-serif.
+```
+
+**Infographic Layout for Fitness & Nutrition Tips**
+
+```
+A vertical step-by-step infographic about daily hydration benefits. Style: Friendly and educational. Use an analogous palette of cool colors (teal, cyan, marine blue, white). Incorporate clean icon placeholders and a highly legible, uniform sans-serif font.
+```
+
+**Podcast Cover Art for a True Crime Show**
+
+```
+Square podcast cover art for a mystery and true-crime podcast. Style: Film-noir / gritty realism. Use a stark, high-contrast palette of crimson red, deep shadows, and stark white. Use a distressed, textured, or stencil serif font to create tension.
+```
+
+**E-book Cover for a Self-Help Guide**
+
+```
+A book cover template for a mindfulness and meditation guide. Style: Zen / Ethereal. Use soft, blending gradient pastel colors (lavender melting into soft sky blue). Use a delicate, centered, high-contrast serif font with ample breathing room to evoke peace and clarity.
+```
