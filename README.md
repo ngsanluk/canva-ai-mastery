@@ -267,3 +267,9 @@ A book cover template for a mindfulness and meditation guide. Style: Zen / Ether
 Use the prompt above in Canva AI, you will be able to generate designs similar to below.
 
 ![](./images/example-4.5.png)
+
+# Exporting
+
+Reach out to the **Share** button at the top right corner of the Canva interface. From there, you can choose to download your design in various formats such as PNG, JPG, PDF, or even directly share it to social media platforms.
+
+![](./images/canva-export.png)
